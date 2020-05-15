@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "A5vshourie/1.0.0": {
+        "runtime": {
+          "A5vshourie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A5vshourie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
