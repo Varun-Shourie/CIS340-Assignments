@@ -1,0 +1,11 @@
+C:\Users\svaru\source\repos\A4vshourie\bin\Debug\netcoreapp3.1\A4vshourie.exe
+C:\Users\svaru\source\repos\A4vshourie\bin\Debug\netcoreapp3.1\A4vshourie.deps.json
+C:\Users\svaru\source\repos\A4vshourie\bin\Debug\netcoreapp3.1\A4vshourie.runtimeconfig.json
+C:\Users\svaru\source\repos\A4vshourie\bin\Debug\netcoreapp3.1\A4vshourie.runtimeconfig.dev.json
+C:\Users\svaru\source\repos\A4vshourie\bin\Debug\netcoreapp3.1\A4vshourie.dll
+C:\Users\svaru\source\repos\A4vshourie\bin\Debug\netcoreapp3.1\A4vshourie.pdb
+C:\Users\svaru\source\repos\A4vshourie\obj\Debug\netcoreapp3.1\A4vshourie.csprojAssemblyReference.cache
+C:\Users\svaru\source\repos\A4vshourie\obj\Debug\netcoreapp3.1\A4vshourie.AssemblyInfoInputs.cache
+C:\Users\svaru\source\repos\A4vshourie\obj\Debug\netcoreapp3.1\A4vshourie.AssemblyInfo.cs
+C:\Users\svaru\source\repos\A4vshourie\obj\Debug\netcoreapp3.1\A4vshourie.dll
+C:\Users\svaru\source\repos\A4vshourie\obj\Debug\netcoreapp3.1\A4vshourie.pdb
